@@ -1,0 +1,18 @@
+body{
+    background-color: #f1f6ff;
+}
+.bg-blue{
+    background-color: blue;
+}
+.active-blue{
+    background-color: #c9dcff;
+}
+.bg-lightblue{
+    background-color: rgb(234, 234, 245);
+}
+.cp{
+    cursor: pointer;
+}
+.text-area-h{
+    height: 200px !important;
+}
